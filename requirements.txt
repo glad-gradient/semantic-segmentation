@@ -3,7 +3,7 @@ numpy==1.17.4
 pandas==0.25.3
 scikit-image==0.16.2
 opencv-python==4.1.2.30
-tensorflow-gpu==2.0.0
+tensorflow-gpu==2.0.1
 keras==2.3.1
 segmentation_models==1.0.0
 git+https://github.com/qubvel/efficientnet
